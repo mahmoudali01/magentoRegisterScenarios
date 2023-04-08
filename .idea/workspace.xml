@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b3bffa7-4f7d-4053-bea2-a419c6a07d55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/F01_Register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/extent.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/P01_Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/P02_Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/P03_Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/D01_Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/Hook.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b3bffa7-4f7d-4053-bea2-a419c6a07d55" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
