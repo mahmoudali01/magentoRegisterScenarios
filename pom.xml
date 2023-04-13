@@ -29,6 +29,8 @@
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>${webdrivermanager.version}</version>
+            <scope>Test</scope>
+
         </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
